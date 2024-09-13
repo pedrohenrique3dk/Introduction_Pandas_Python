@@ -1,7 +1,7 @@
 # Seja Bem-Vindo 😁
 
 > [!NOTE]
-> Seja muito bem vindo ao meu repositório de Análise de Dados em Python, aqui você vai encontrar um projeto de análise de uma turbina eólica. E para facilitar sua experiência, eu coloquei neste readme, 
+> Seja muito bem vindo ao meu repositório de Introdução ao Pandas aqui você vai encontrar as anotações e insigths que tive nesse mini curso. E para facilitar sua experiência, eu coloquei neste readme, 
 >  de forma detalhada e organizada, os projetos que julguei de extrema relevância para meu aprendizado e que mostram habilidades importantes que adquiri ao fazê-los. Se divirta!! 😎
 
 >[!IMPORTANT]
@@ -9,7 +9,7 @@
 
 <img src="https://github.com/user-attachments/assets/16a79a0e-238e-403f-b7e0-84c770e0d202" alt = "codigo" width="1200" height="200">
 
-# Abaixo um "Preview" do código, mas se quiser ir direto para o código clique <a href="">AQUI</a>!
+# Abaixo um "Preview" do código, mas se quiser ir direto para o código clique <a href="https://github.com/pedrohenrique3dk/Introduction_Pandas_Python/blob/main/introduction_pandas.ipynb">AQUI</a>!
 
 ## O que aprendemos nesse curso introdutório de Pandas?
 
